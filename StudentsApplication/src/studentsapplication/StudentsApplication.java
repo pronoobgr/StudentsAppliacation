@@ -7,7 +7,7 @@ package studentsapplication;
 
 /**
  *
- * @author Παναγιώτης
+ * @author 
  */
 public class StudentsApplication {
 
