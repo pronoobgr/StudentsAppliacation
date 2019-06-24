@@ -26,7 +26,7 @@ import javax.swing.JTextField;
 
 /**
  *
- * @author Παναγιώτης
+ * @author 
  */
 public class StudentsForm extends JFrame{
     
